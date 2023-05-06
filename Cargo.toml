@@ -1,5 +1,5 @@
 [package]
-name = "tkm"
+name = "tkm2_0"
 description = "A terminal based task manager."
 version = "0.8.5"
 authors = ["Sam Perlmutter <sam.perlmutter227@gmail.com>"]
@@ -16,6 +16,6 @@ pretty-bytes = "0.2.2"
 procfs = "0.15.1"
 libc = "0.2.141"
 syscalls = "0.6.9"
-
+regex = "1.5.4"
 [build-dependencies]
 cmake = "0.1.31"
